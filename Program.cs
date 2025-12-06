@@ -5,7 +5,7 @@ class Program
 
   static void Main(string[] args)
   {
-    Day4.Solve(args);
-    Day4Parallel.Solve(args);
+    //Day4.Solve(args);
+    Day4Part2.Solve(args);
   }
 }
